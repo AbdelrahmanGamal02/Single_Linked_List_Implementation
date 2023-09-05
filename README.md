@@ -1,7 +1,7 @@
 # Single_Linked_List_Implementation
 Implementation of Single Linked List With C programming 
 implement many **functions of linked list**
-- Insert Node at Begining
+- Insert Node at Beginning
 - Insert Node at End
 - Insert Node after Node
 - Insert Node Before Node
